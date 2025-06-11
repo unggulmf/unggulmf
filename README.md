@@ -67,9 +67,9 @@
     <img src="https://img.shields.io/badge/TikTok-Coding%20Content-black?style=for-the-badge&logo=tiktok" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://unggulfatih.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=firefox" />
+    <img src="https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=chrome" />
   </a>
   <a href="mailto:unggulmf01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
