@@ -1,65 +1,70 @@
-<h1 align="center">Hi 👋, I'm unggulmf</h1>
-<h3 align="center">A passionate Web Developer & UI/UX Designer from Indonesia</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">Hi 👋, I'm Unggul</h1>
+<h3 align="center">Founder • Web Developer • UI/UX Designer from Central Java 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F78C4&center=true&vCenter=true&width=435&lines=Web+Developer+%26+UI%2FUX+Designer;Building+WA-based+SaaS+for+SMEs;Open+for+collaboration+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFDD&width=600&center=true&vCenter=true&lines=Building+WhatsApp-Based+SaaS+%F0%9F%92%BB;Designing+clean+UIs+with+Tailwind+%F0%9F%8E%A8;Love+automation%2C+design+and+code+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🚀 Building: **WA Optimization SaaS** for UMKM & non-tech startups
-- 🌱 Learning: **Next.js, Prisma, and Microservices**
-- 👯 Open to collaborate on: **startup MVPs, SaaS products, and design systems**
-- 🧩 Specialty: **Clean frontend code + UX-first design thinking**
-- 💬 Ask me about: **React, TailwindCSS, Docker, or WhatsApp automation**
-- 📫 Reach me: **unggulmf@gmail.com**
+### ✨ About Me
+
+- 🔥 Founder of **WA Optimization SaaS** – a WhatsApp automation platform for UMKM & Startups.
+- 🎯 Focused on **Frontend Excellence**, **Design Systems**, and **UX-First Thinking**.
+- 📍 Based in Central Java, Indonesia – working globally 🌍
+- 🛠️ Tech Stack: `React`, `Next.js`, `Tailwind`, `Node.js`, `Prisma`, `Docker`, `Figma`
+- ⚙️ Exploring: AI-enhanced features & microservices architecture
+- 🌐 Website: [unggulfatih.my.id](https://unggulfatih.my.id)
+- 📫 Reach me anytime: **unggulmf01@gmail.com**
 
 ---
 
-### 🔧 Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
-
-**Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-
----
-
-### 🚀 Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 💬 **WA Optimization SaaS** | Multi-user WhatsApp SaaS: auto-reply AI, broadcast, QRIS webhook | [View Repo](https://github.com/unggulmf/wa-saas) |
-| 🎨 **UI Components** | Tailwind-based reusable component library | [View Repo](https://github.com/unggulmf/ui-components) |
-| ⚙️ **Webhook Tester** | Simple Express-based webhook testing tool | [View Repo](https://github.com/unggulmf/webhook-tester) |
-
----
-
-### 📈 GitHub Stats
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unggulmf&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,docker,git,figma,vscode" />
+</p>
+
+---
+
+### 📌 Highlight Projects
+
+| 🚀 Project Name | Description | Demo/Repo |
+|----------------|-------------|-----------|
+| **WA Optimization SaaS** | WhatsApp SaaS: auto-reply AI, broadcast, QRIS-ready multi-user dashboard | [🔗 View Repo](https://github.com/unggulmf/wa-saas) |
+| **UI Components** | Tailwind-based component library for speed building UI | [🔗 View Repo](https://github.com/unggulmf/ui-components) |
+| **Webhook Tester** | Developer tool to test incoming webhooks (Node.js + Express) | [🔗 View Repo](https://github.com/unggulmf/webhook-tester) |
+
+> 💡 Want to see these in action? Ask me for a demo video/GIF version. I'm working on it.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unggulmf&theme=tokyonight&show_icons=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unggulmf&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unggulmf&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌎 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/unggulmf)  
-[![Email](https://img.shields.io/badge/-unggulmf%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:unggulmf@gmail.com)
+<p align="center">
+  <a href="https://unggulfatih.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=firefox-browser" /></a>
+  <a href="https://instagram.com/unggul_m.f" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/unggul.fatih.2025" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@codingwith.unggul" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
 
 ---
 
-_“Build with purpose, design with empathy.”_
+### 🧠 Quote I Live By
+
+> _"Design isn't just how it looks — it's how it works."_  
+> — Steve Jobs
+
+---
+
