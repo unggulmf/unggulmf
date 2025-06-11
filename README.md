@@ -56,25 +56,26 @@
 
 ## 🌍 Let’s Connect
 
-<p align="center">
+<p>
   <a href="https://instagram.com/unggul_m.f" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://facebook.com/unggul.fatih.2025" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@codingwith.unggul" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Coding%20Content-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/Coding%20Content-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://unggulfatih.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-Visit-5A5A5A?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit-5A5A5A?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:unggulmf01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
