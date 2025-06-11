@@ -1,70 +1,75 @@
-<!-- Animated Typing Header -->
-<h1 align="center">Hi 👋, I'm Unggul</h1>
+<!-- Header Animasi -->
+<h1 align="center">Hi there 👋, I'm Unggul</h1>
 <h3 align="center">Founder • Web Developer • UI/UX Designer from Central Java 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFDD&width=600&center=true&vCenter=true&lines=Building+WhatsApp-Based+SaaS+%F0%9F%92%BB;Designing+clean+UIs+with+Tailwind+%F0%9F%8E%A8;Love+automation%2C+design+and+code+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFDD&width=600&center=true&vCenter=true&lines=Fullstack+Web+Developer;SaaS+Builder+%7C+Clean+UI+Lover;Open+to+Freelance+%26+Collaboration" alt="Typing animation" />
 </p>
 
 ---
 
-### ✨ About Me
+## 🧠 About Me
 
-- 🔥 Founder of **WA Optimization SaaS** – a WhatsApp automation platform for UMKM & Startups.
-- 🎯 Focused on **Frontend Excellence**, **Design Systems**, and **UX-First Thinking**.
-- 📍 Based in Central Java, Indonesia – working globally 🌍
-- 🛠️ Tech Stack: `React`, `Next.js`, `Tailwind`, `Node.js`, `Prisma`, `Docker`, `Figma`
-- ⚙️ Exploring: AI-enhanced features & microservices architecture
+- 👨‍💻 I’m currently building **WA Optimization SaaS** for UMKM & startups
+- 🎨 Passionate about UI/UX & clean design systems
+- ⚙️ Focused on Fullstack Web Development & SaaS
+- 📍 Based in **Central Java**, working globally 🌍
+- ✉️ Email me anytime: **unggulmf01@gmail.com**
 - 🌐 Website: [unggulfatih.my.id](https://unggulfatih.my.id)
-- 📫 Reach me anytime: **unggulmf01@gmail.com**
+- 📬 DM-friendly on: [Instagram](https://instagram.com/unggul_m.f)
 
 ---
 
-### 🧰 Tech Toolbox
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,prisma,docker,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,php,laravel,wordpress,docker,git,figma" />
+</p>
+
+> 📝 Also love working with: `Markdown`, `Excalidraw`, `UI Libraries`, `REST APIs`, `Webhooks`, and `Microservices`.
+
+---
+
+## 🔥 Featured Projects
+
+| 🚀 Project | Description | 🔗 Link |
+|----------|-------------|--------|
+| **WA Optimization SaaS** | WhatsApp automation for UMKM: broadcast, auto-reply AI, QRIS webhook | [🔗 View Repo](https://github.com/unggulmf/wa-saas) |
+| **UI Components** | Tailwind-based reusable component library | [🔗 View Repo](https://github.com/unggulmf/ui-components) |
+| **Webhook Tester** | Express.js tool for testing incoming webhooks easily | [🔗 View Repo](https://github.com/unggulmf/webhook-tester) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unggulmf&theme=tokyonight&show_icons=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unggulmf&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unggulmf&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 📌 Highlight Projects
-
-| 🚀 Project Name | Description | Demo/Repo |
-|----------------|-------------|-----------|
-| **WA Optimization SaaS** | WhatsApp SaaS: auto-reply AI, broadcast, QRIS-ready multi-user dashboard | [🔗 View Repo](https://github.com/unggulmf/wa-saas) |
-| **UI Components** | Tailwind-based component library for speed building UI | [🔗 View Repo](https://github.com/unggulmf/ui-components) |
-| **Webhook Tester** | Developer tool to test incoming webhooks (Node.js + Express) | [🔗 View Repo](https://github.com/unggulmf/webhook-tester) |
-
-> 💡 Want to see these in action? Ask me for a demo video/GIF version. I'm working on it.
-
----
-
-### 📊 GitHub Stats
+## 🌍 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unggulmf&theme=tokyonight&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unggulmf&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unggulmf&layout=compact&theme=tokyonight" />
+  <a href="https://unggulfatih.my.id" target="_blank"><img src="https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=firefox" /></a>
+  <a href="mailto:unggulmf01@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/unggul_m.f" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://facebook.com/unggul.fatih.2025" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" /></a>
+  <a href="https://www.tiktok.com/@codingwith.unggul" target="_blank"><img src="https://img.shields.io/badge/TikTok-Coding%20Content-black?style=for-the-badge&logo=tiktok" /></a>
 </p>
 
 ---
 
-### 🌎 Let's Connect
+## 💬 Quote
 
-<p align="center">
-  <a href="https://unggulfatih.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=firefox-browser" /></a>
-  <a href="https://instagram.com/unggul_m.f" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/unggul.fatih.2025" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@codingwith.unggul" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Quote I Live By
-
-> _"Design isn't just how it looks — it's how it works."_  
+> _“Design is not just what it looks like and feels like. Design is how it works.”_  
 > — Steve Jobs
 
 ---
 
+<!-- End of README -->
