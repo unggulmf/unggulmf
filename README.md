@@ -66,8 +66,6 @@
   <a href="https://www.tiktok.com/@codingwith.unggul" target="_blank">
     <img src="https://img.shields.io/badge/Coding%20Content-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-</p>
-<p>
   <a href="https://unggulfatih.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Visit-5A5A5A?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
