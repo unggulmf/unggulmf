@@ -44,12 +44,19 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=unggulmf&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=unggulmf&theme=tokyonight&hide_border=true" width="45%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unggulmf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%"/>
+  <!-- Stats 1: Overview dan Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=unggulmf&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true" width="90%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=unggulmf&theme=tokyonight&hide_border=true" width="90%" />
+  
+  <!-- Spacer -->
+  <br>
+
+  <!-- Stats 2: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unggulmf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" />
 
 </div>
+
 
 ---
 
