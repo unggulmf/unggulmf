@@ -14,9 +14,9 @@
 - 🎨 Passionate about UI/UX & clean design systems
 - ⚙️ Focused on Fullstack Web Development & SaaS
 - 📍 Based in **Central Java**, working globally 🌍
-- ✉️ Email me anytime: **unggulmf01@gmail.com**
 - 🌐 Website: [unggulfatih.my.id](https://unggulfatih.my.id)
 - 📬 DM-friendly on: [Instagram](https://instagram.com/unggul_m.f)
+- ✉️ Email me anytime: **unggulmf01@gmail.com**
 
 ---
 
