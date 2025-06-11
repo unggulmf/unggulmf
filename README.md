@@ -45,8 +45,8 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unggulmf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=unggulmf&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true" width="48%" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unggulmf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" height="180px"/>
 </div>
 
 </div>
@@ -56,13 +56,7 @@
 
 ## 🌍 Let’s Connect
 
-<p align="center">
-  <a href="https://unggulfatih.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=firefox" />
-  </a>
-  <a href="mailto:unggulmf01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
   <a href="https://instagram.com/unggul_m.f" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
   </a>
@@ -71,6 +65,14 @@
   </a>
   <a href="https://www.tiktok.com/@codingwith.unggul" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-Coding%20Content-black?style=for-the-badge&logo=tiktok" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://unggulfatih.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=firefox" />
+  </a>
+  <a href="mailto:unggulmf01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
